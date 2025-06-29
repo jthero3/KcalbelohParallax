@@ -36,6 +36,9 @@ Make sure you have the two required mods, and their dependencies.
 
 ## Changelog
 
+0.2.0 - The Mighty Jungle
+* Added Custom Scatters to Efil.
+
 0.1.0 - Initial Release
 * Adds Full Scaled Space Support. Initial Clean-up pass over scatters, and terrain.
 
